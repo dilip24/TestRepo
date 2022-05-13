@@ -1,0 +1,21 @@
+{
+	"firstname": "Dilip",
+	"lastname": "Kumar",
+	"id": "DKR",
+	"Designation": "BA",
+	"Address": 
+	[
+		{
+		"Type": "Primary",
+		"Door no": "12A",
+		"Street": "4th Cross",
+		"Area": "Indra Nagar"
+	    },
+	    {
+		"Type": "Secondary",
+		"Door no": "18D",
+		"Street": "6th Cross",
+		"Area": "Anna Nagar"
+	    }	
+	]
+}
